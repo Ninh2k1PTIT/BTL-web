@@ -13,7 +13,8 @@
   <li>Đăng kí tài khoản mới, đăng nhập hệ thống</li>
   <li>Hệ thống bao gồm các lớp thực thể: Câu hỏi (Post), Câu trả lời (Comment), Đánh giá câu hỏi/câu trả lời (PostVote/CommentVote), Người dùng (User), Chủ đề (Tag)</li>
   <li>Dưới đây là mô tả các bảng cơ sở dữ liệu:</li>
-  ![csdl](https://user-images.githubusercontent.com/81175577/171462142-8eda2881-d755-4ad5-9a0b-9bc55996a789.jpg)
+  
+  <img src="https://user-images.githubusercontent.com/81175577/171462142-8eda2881-d755-4ad5-9a0b-9bc55996a789.jpg">
 </ul>
 
 <h2>3. Mô tả chức năng hệ thống</h2>
@@ -24,32 +25,23 @@
 </ul>
 <h2>4. Một số màn hình demo</h2>
 <div>Đăng kí tài khoản mới</div>
-![Screenshot (22)](https://user-images.githubusercontent.com/81175577/171471055-22bb91be-df7c-45e6-95a5-c2965182ee7c.png)
+<img src="https://user-images.githubusercontent.com/81175577/171471055-22bb91be-df7c-45e6-95a5-c2965182ee7c.png">
 <div>Đăng nhập</div>
-![Screenshot (23)](https://user-images.githubusercontent.com/81175577/171471229-75e86c48-a240-4fee-a1da-b665e33e51e4.png)
+<img src="https://user-images.githubusercontent.com/81175577/171471229-75e86c48-a240-4fee-a1da-b665e33e51e4.png">
+
 <div>Giao diện hiển thị các câu hỏi gồm: Tiêu đề, chủ đề, đánh giá, tác giả,...</div>
-![Screenshot (24)](https://user-images.githubusercontent.com/81175577/171471562-ac346af0-fd1f-4840-a035-73453eb241cc.png)
+<img src="https://user-images.githubusercontent.com/81175577/171471562-ac346af0-fd1f-4840-a035-73453eb241cc.png" alt="">
 <div>Tạo câu hỏi mới</div>
-![Screenshot (25)](https://user-images.githubusercontent.com/81175577/171473665-6ea08dc9-0411-4957-82d2-35f2c179a5d9.png)
+<img src="https://user-images.githubusercontent.com/81175577/171473665-6ea08dc9-0411-4957-82d2-35f2c179a5d9.png">
 <div>Xem chi tiết câu hỏi, đăng câu trả lời, đánh giá các câu trả lời</div>
-![Screenshot (26)](https://user-images.githubusercontent.com/81175577/171473877-6813fbe8-073f-4d8d-8cde-7207f5c0f274.png)
-![Screenshot (27)](https://user-images.githubusercontent.com/81175577/171474015-56d62e16-373b-4c1a-962f-1674e32b1af6.png)
+ <img src="https://user-images.githubusercontent.com/81175577/171473877-6813fbe8-073f-4d8d-8cde-7207f5c0f274.png">
+ <img src="https://user-images.githubusercontent.com/81175577/171474015-56d62e16-373b-4c1a-962f-1674e32b1af6.png">
 <div>Sửa thông tin</div>
-![Screenshot (28)](https://user-images.githubusercontent.com/81175577/171474200-13adebc3-a087-4028-9f41-5456b24751b4.png)
+<img src="https://user-images.githubusercontent.com/81175577/171474200-13adebc3-a087-4028-9f41-5456b24751b4.png">
 
 <h2>5. Công nghệ sử dụng</h2>
-![1_GLKEQG4EE6H4IEk1VAMp4A](https://user-images.githubusercontent.com/81175577/171474477-82f6a6bf-2313-4ad7-8f01-b56842ae6f11.png)
+<img src="https://user-images.githubusercontent.com/81175577/171474477-82f6a6bf-2313-4ad7-8f01-b56842ae6f11.png" alt="">
 <ul>
   <li>Backend: Sử dụng Spring Boot 2.7, lập trình trên IntelliJ IDEA</li>
   <li>Frontend: Sử dụng Angular 12, lập trình trên Visual Studio Code</li>
   <li>DBMS: MySQL 8.0.26</li>
-
-
-
-
-
-
-
-
-
-  
